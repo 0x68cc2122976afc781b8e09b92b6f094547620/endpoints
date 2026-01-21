@@ -1,4 +1,4 @@
-### DINARI
+## DINARI
 https://api.sbt.dinari.com/api/v1/transparency/report
 https://api.sbt.dinari.com/api/v1/transparency/filled_orders
 https://api.sbt.dinari.com/api/v1/stocks/count
@@ -10,12 +10,12 @@ https://api.sbt.dinari.com/api/v1/stocks/count
 
 https://api.sbt.dinari.com/api/v1/stocks/11/price_chart_data?timespan=DAY
 https://api.sbt.dinari.com/api/v1/stocks/price_summaries?stock_ids=11
-
 https://api.sbt.dinari.com/api/v1/stocks/15/dividends
 https://api.sbt.dinari.com/api/v1/chain/42161/token_infos/filtered?stock_ids=1
 https://api.sbt.dinari.com/api/v1/stocks/by_symbol/TSLA
 https://api.sbt.dinari.com/api/v1/stocks/11/price_chart_data?timespan=WEEK
 https://api.sbt.dinari.com/api/v1/stocks/price_summaries?stock_ids=11
+
 https://api.sbt.dinari.com/api/v1/stocks/info?stock_ids=1&stock_ids=2&stock_ids=3&stock_ids=4&stock_ids=5&stock_ids=6&stock_ids=7&stock_ids=8&stock_ids=9&stock_ids=10&stock_ids=11&stock_ids=12&stock_ids=13&stock_ids=14&stock_ids=15&stock_ids=16&stock_ids=17&stock_ids=18&stock_ids=19&stock_ids=20&stock_ids=21&stock_ids=22&stock_ids=23&stock_ids=24&stock_ids=25&stock_ids=26&stock_ids=27&stock_ids=28&stock_ids=29&stock_ids=30&stock_ids=31&stock_ids=32&stock_ids=33&stock_ids=34&stock_ids=35&stock_ids=36&stock_ids=37&stock_ids=38&stock_ids=39&stock_ids=40
 https://api.sbt.dinari.com/api/v1/stocks/price_summaries?stock_ids=1&stock_ids=2&stock_ids=3&stock_ids=4&stock_ids=5&stock_ids=6&stock_ids=7&stock_ids=8&stock_ids=9&stock_ids=10&stock_ids=11&stock_ids=12&stock_ids=13&stock_ids=14&stock_ids=15&stock_ids=16&stock_ids=17&stock_ids=18&stock_ids=19&stock_ids=20&stock_ids=21&stock_ids=22&stock_ids=23&stock_ids=24&stock_ids=25&stock_ids=26&stock_ids=27&stock_ids=28&stock_ids=29&stock_ids=30&stock_ids=31&stock_ids=32&stock_ids=33&stock_ids=34&stock_ids=35&stock_ids=36&stock_ids=37&stock_ids=38&stock_ids=39&stock_ids=40
 
@@ -30,6 +30,20 @@ https://api.sbt.dinari.com/api/v1/stocks/all?page=2&page_size=100
 https://api.sbt.dinari.com/api/v1/stocks/all?page=3&page_size=100
 
 
-### ONDO FINANCE
+## ONDO FINANCE
 https://app.ondo.finance/api/v2/assets
 https://app.ondo.finance/api/v2/assets/intcon/history?range=1day
+https://app.ondo.finance/api/v2/assets/nvdaon/info
+https://app.ondo.finance/api/bridge/addresses
+https://app.ondo.finance/api/market_indices?symbols=^GSPC,^DJI,^IXIC,^NYA,^VIX,^TNX
+
+## Daily Attestation Reports
+https://www.dropbox.com/scl/fo/375wdvar3rbc7o23nxsgp/AOFY8jhpENaNx9WAw-WPnbY?rlkey=4icqn1z9bez725wywr30fx52a&st=bsxeh8j5&dl=0
+https://www.dropbox.com/scl/fo/jzkrw308mrhsasauqrjqq/AJxJak0F90kcwkADSN3DCD4?rlkey=nik1v5slekrzx5fbi0zan5sk3&st=t5vbvab8&dl=0
+https://www.dropbox.com/scl/fo/fk5t99zyihshuak3u1u9v/AMYiYSUwvoL6osa2FX_G_M8?rlkey=0ttmb4ifhdg4ebvhbh8aa3juc&st=fyoof4cu&dl=0
+https://www.dropbox.com/scl/fo/7rlmba8f49nvbp3xwz1of/ABv0vSjd6cIDAUTIlwm2KwA?rlkey=hokf0tffqvezfmsto25cvpovs&st=7ohgw8sv&dl=0
+
+## USDY
+https://www.dropbox.com/scl/fi/54pckbfyzghv12vg2016l/USDY-LLC-Signed-Document-Packet.pdf?rlkey=4ropylhwit18dbvy8378v39v7&dl=1
+
+
